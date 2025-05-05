@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I am Jaeyoung Park who is interested in Data Science from South Korea.
+
+If you want to contact me, please leave me a message!
+
+## Learning 🌱 
+
+
 <!--
 **cosmos17/cosmos17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
